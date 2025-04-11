@@ -1,0 +1,32 @@
+//practice-2
+//number_1
+const age=14;
+console.log(age);
+
+//number_2
+const bookToRead=20;
+console.log(bookToRead);
+
+//number_3
+let weakUpTime=6;
+weakUpTime=10;
+console.log(weakUpTime);
+
+//number_4
+const wastedTime=1;
+
+console.log(wastedTime);
+
+//number_5
+
+borrow=100;
+
+//number_6
+
+const goals=7;
+console.log(goals)
+
+//number_7
+
+const pillow=3;
+console.log(pillow);
