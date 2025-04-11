@@ -1,4 +1,4 @@
-//practice-2
+//practice-3
 //number_1
 const age=14;
 console.log(age);
