@@ -1,0 +1,39 @@
+//practice-5
+//numbe_1
+const happy=false;
+console.log(happy);
+
+//number_2
+
+const crushMassage=true;
+console.log(crushMassage);
+
+//number_3
+
+const celebrating=true;
+console.log(celebrating);
+
+//number_4
+
+const ishappy=true;
+const hasmoney=false;
+const ishungry=true;
+
+console.log(ishappy);
+console.log(hasmoney);
+console.log(ishungry);
+
+//number_5
+
+const isstadydone=true;
+console.log(isstadydone);
+
+//number_6
+
+const iphoneCharged=false;
+console.log(iphoneCharged);
+
+//number_7
+
+const isDennerDone=false;
+console.log(isDennerDone);
