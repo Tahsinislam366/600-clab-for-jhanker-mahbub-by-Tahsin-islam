@@ -1,0 +1,71 @@
+//practice-6
+//number_1
+const income=100;
+const spend=40;
+const havemoney=income-spend+"Tk";
+console.log(havemoney);
+
+//numbera_2
+
+const havepencile=10;
+const everyTimeSpend=2;
+const Babohar_korta_parbo=10/2+"Bar";
+console.log(Babohar_korta_parbo);
+
+//number3
+
+const haveMoney=60;
+const everyTimesSpend=15;
+const canSpend=haveMoney/everyTimesSpend+"bar";
+console.log(canSpend);
+
+const willRemain=havemoney%everyTimesSpend;
+console.log(willRemain+"Tk will Remain");
+
+//number_4
+
+const word1="Hello";
+const word2="World";
+console.log(word1+word2);
+
+//number_5
+
+const rice=153;
+const dowle=261;
+const mot=rice+dowle+"KG";
+console.log(mot);
+//number_6
+
+const have_money_me=500;
+const proti_bar_khoroch_kor_ta_parbo=75;
+const koi_bar=have_money_me/proti_bar_khoroch_kor_ta_parbo;
+console.log(koi_bar+"Bar")
+const baki_thakba=have_money_me%proti_bar_khoroch_kor_ta_parbo;
+console.log(baki_thakba+"tk Baki thak ba");
+
+//numbera_7
+
+const num1=8;
+const num2=3;
+const bhag_fol=num1/num2;
+const bhag_shes=num1%num2;
+console.log(bhag_fol);
+console.log(bhag_shes);
+
+//number_8
+
+const bhag_shes_Thaka=50%9;
+console.log(bhag_shes_Thaka)
+
+//number_9
+
+console.log("bangla"+"desh");
+
+//number_10
+
+const chal_acha=480;
+const proti_din_khai=4;
+const din_jaba=chal_acha/proti_din_khai;
+const mash_jaba=din_jaba/30;
+console.log(din_jaba+"Day");
+console.log(mash_jaba+"Month");
