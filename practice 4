@@ -1,0 +1,32 @@
+//practice-4
+//number_1
+
+const name="Tahsin";
+console.log(name);
+
+//number_2
+const address="kaligonj,jhenaidah";
+console.log(address);
+
+//number_3
+
+const school="gov.nbpss";
+console.log(school);
+
+//number_4
+
+const fun="nusrat jahan";
+
+//number_5
+
+const movieOfTheYear="Antor jal";
+console.log(movieOfTheYear);
+
+//number_6
+
+const hobby="programming";
+console.log(hobby);
+
+//number_7
+const color="blue";
+console.log(color);
