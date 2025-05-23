@@ -1,0 +1,36 @@
+//practice-(8);
+//number_1
+let age=10;
+age=14;
+console.log(age);
+
+//number_2
+let PocketMoney=500;
+PocketMoney=150;
+console.log(PocketMoney);
+
+//number_3
+let stadyTime=4;
+stadyTime=3;
+console.log(stadyTime);
+
+//number_4
+let friendsCount=3;
+friendsCount=friendsCount-2;
+console.log(friendsCount);
+
+//number_5
+let phonePrice=25000;
+phonePrice=12000;
+console.log(phonePrice);
+
+//number_6
+let chairsCount=40;
+chairsCount=40-2;
+chairsCount=chairsCount-6;
+console.log(chairsCount);
+
+//practice_7
+playTimes=3;
+playTimes=0;
+console.log(playTimes);
